@@ -1,0 +1,74 @@
+body {
+  background-color: yellowgreen;
+  width: 243px;
+}
+.rasm1 {
+  width: 50px;
+  height: 50px;
+}
+.div1 {
+  display: flex;
+  height: 50px;
+}
+.text1 {
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+
+.text2 {
+  margin-top: 10px;
+  margin-left: 50px;
+}
+
+.rasm2 {
+  width: 30px;
+  height: 30px;
+  margin-top: 12px;
+  margin-left: -35px;
+}
+.rasm3 {
+  width: 238px;
+  margin-top: 10px;
+}
+.text3 {
+  margin-left: 20px;
+}
+.borsh {
+  width: 300px;
+  height: 600px;
+}
+.rasm4 {
+  width: 238px;
+}
+.text4 {
+  text-align: center;
+  background-color: green;
+  width: 238px;
+}
+
+.meals1 {
+  display: flex;
+  border: 2px solid black;
+  height: 602px;
+}
+
+
+.input1{
+  width: 148px;
+  margin-left: 24px;
+}
+.searchicon{
+  width: 15px;
+  height: 15px;
+  margin-left: -153px;
+  margin-top: 2px;
+}
+.siu{
+  display: flex;
+}
+
+.button1{
+  margin-left: 117.78px
+}
+
